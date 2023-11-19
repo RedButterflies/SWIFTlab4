@@ -7,6 +7,7 @@
 
 import Foundation
 
+//zad5.3
 var sum = 0
 var i = 0
 while (i <= 7 ) {
