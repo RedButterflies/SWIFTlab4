@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  lab5
+//  lab4
 //
-//  Created by admin on 11/19/23.
+//  Created by Aleksandra Olejarz on 11/19/23.
 //
 
 import Foundation
